@@ -1,6 +1,6 @@
 # Cinema 4D Connector - Cinema 4D Plugin
 
-
+> :warning: This an archived legacy repository which is not actively maintained.
 
 > :warning: **As of Cinema 4D 2023.2, this plugin is no longer required and supported**, as its functionality has been integrated into Cinema 4D. For more information please read the [Cinema 4D Connector documentation](https://help.maxon.net/c4d/en-us/#html/5896.html#codeexchangesendtoIDE).
 
@@ -12,13 +12,13 @@ The solution is server-based and requires a matching implementation on the side 
 
 To use all the features it is necessary to install the following two extensions:
 
-- The Cinema 4D plugin, downloadable [here](https://github.com/PluginCafe/Cinema4D_Connector-Cinema4D_Plugin/releases). Once downloaded, extract the archive to the Cinema 4D S26+ plugins folder. You then need to activate the extension in the Cinema 4D preferences in the `Extensions | Code Exchange` menu, activate the WebSocket Json checkbox.
+- The Cinema 4D plugin, downloadable [here](https://github.com/Maxon-Computer/Cinema-4D-Legacy-Visual-Studio-Code-Bridge-Plugin/releases). Once downloaded, extract the archive to the Cinema 4D S26+ plugins folder. You then need to activate the extension in the Cinema 4D preferences in the `Extensions | Code Exchange` menu, activate the WebSocket Json checkbox.
 
-- The `Cinema 4D Connector` extension for Visual Studio Code, directly accessible in the Visual Studio code marketplace, or download it [here](https://github.com/PluginCafe/Cinema4D_Connector-VisualStudioCode_Extension/releases).
+- The `Cinema 4D Connector` extension for Visual Studio Code, directly accessible in the Visual Studio code marketplace, or download it [here](https://github.com/Maxon-Computer/Cinema-4D-Legacy-Visual-Studio-Code-Bridge-Plugin/releases).
 
 ## Features
 
-In-depth documentation can be found in [Cinema 4D Connector - Documentation](https://github.com/PluginCafe/Cinema4D_Connector-Cinema4D_Plugin/blob/main/documentation.md).
+In-depth documentation can be found in [Cinema 4D Connector - Documentation](https://github.com/Maxon-Computer/Cinema-4D-Legacy-Visual-Studio-Code-Bridge-Plugin/blob/main/documentation.md).
 
 ## Requirements
 
